@@ -1,13 +1,10 @@
-
-
-
 body {
-    background-color: rgba(131, 173, 179, 0.623);
+    background-color: lightsteelblue;
 }
-p{
-    color: rgb(0, 0, 0);
+b {
+    color: black;
 }
 
-#banner{
-    width: 50%;
+#banner {
+    width: 40%
 }
