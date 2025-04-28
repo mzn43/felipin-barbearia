@@ -8,3 +8,12 @@ b {
 #banner {
     width: 40%
 }
+
+#logo{
+    width: 300px;
+}
+.caixa{
+    position: relative;
+    width: 960px;
+    margin: 10px auto;
+}
